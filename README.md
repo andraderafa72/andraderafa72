@@ -4,8 +4,10 @@
 <!--
 **andraderafa72/andraderafa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andraderafa72&repo=Agenda-JS)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
