@@ -26,8 +26,11 @@ I post here my most recent and intersting projects. <br>
 </ul>
 
 ##### Most used languages
+[![Rafael's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72&v=2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **andraderafa72/andraderafa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
