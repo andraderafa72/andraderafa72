@@ -25,11 +25,23 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
 </ul>
 
+### What I'm currently working on
+A Electron (or web) app for managing and controlling expenses. Where the user can register the total money received, the total spent and make a monthly balance.
+#### Tecnologies
+
+<ul>
+  <li>HTML5, CSS3, JavaScript and Bootstrap 5</li>
+  <li>NodeJS + ExpressJS</li>
+  <li>Views EJS</li>
+  <li>MongoDB database</li>
+</ul>
+
+![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/working-now.gif?raw=true)
+
 ##### Most used languages
 [![Rafael's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72&v=2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **andraderafa72/andraderafa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
