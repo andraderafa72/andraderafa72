@@ -10,20 +10,24 @@ My next goals will be JS frameworks like React, Angular and Vue.
 ## About my projects
 I post here my most recent and intersting projects. <br>
 ### Projects on GitHub Pages
-[ToDo List](https://andraderafa72.github.io/todolist) <br>
-[Despesas da Casa](https://andraderafa72.github.io/despesas-da-casa) <br>
-[BMI Calculator](https://andraderafa72.github.io/calculadora-de-imc) <br>
-[I am Developer](https://andraderafa72.github.io/I-Am-Developer) <br>
+<ul>
+  <li><a href="https://andraderafa72.github.io/todolist">ToDo List</a></li>
+  <li><a href="https://andraderafa72.github.io/despesas-da-casa">Despesas da Casa</a></li>
+  <li><a href="https://andraderafa72.github.io/calculadora-de-imc">BMI Calculator</a></li>
+  <li><a href="https://andraderafa72.github.io/I-Am-Developer">I am Developer</a></li>
+</ul>
 
 ### NodeJS projects
-[Agenda JS](https://github.com/andraderafa72/Agenda-JS) <br>
-[KoisaradaFestas Frontend](https://github.com/andraderafa72/koisaradafestas-frontend) <br>
-[ToDo List - Electron](https://github.com/andraderafa72/todolist-electron) <br>
-[Despesas da Casa - Electron](https://github.com/andraderafa72/despesas-da-casa-electron) <br>
-##### What I'm currently working?
+<ul>
+  <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
+  <li><a href="https://github.com/andraderafa72/koisaradafestas-frontend">KoisaradaFestas Frontend</a></li>
+  <li><a href="https://github.com/andraderafa72/todolist-electron">ToDo List - Electron</a></li>
+  <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
+</ul>
 
+##### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Rafael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **andraderafa72/andraderafa72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
