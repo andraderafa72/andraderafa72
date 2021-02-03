@@ -26,7 +26,8 @@ I post here my most recent and intersting projects. <br>
 </ul>
 
 ### What I'm currently working on
-A Electron (or web) app for managing and controlling expenses. Where the user can register the total money received, the total spent and make a monthly balance.
+A Electron (or web) app for managing and controlling expenses. Where the user can register the total money received, the total spent and make a monthly balance. <br>
+[Project repository](https://github.com/andraderafa72/Financas-Web)
 #### Tecnologies
 
 <ul>
