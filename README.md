@@ -2,7 +2,7 @@
 My name is Rafael Andrade and I am a web developer.
 
 ## About me
-I started my life as a programmer when i was 13 years old with Visual Basic and Java, but i didn't feel that was for me. Then I discoverd JavaScript and fell in love with developing Web Apps.
+I started my life as a programmer with Visual Basic and Java, but i didn't feel that was for me. Then I discoverd JavaScript and fell in love with developing Web Apps.
 ### Always Learning
 I'm currently improving my skills in JavaScript and intend to learn TypeScript. <br>
 My next goals will be JS frameworks like React, Angular and Vue.
