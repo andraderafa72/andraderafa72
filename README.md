@@ -10,6 +10,8 @@ My next goals will be JS frameworks like React, Angular and Vue.
 ## About my projects
 I post here my most recent and intersting projects. <br>
 ### Projects on GitHub Pages
+(Clique no link para visualizar o site)
+
 <ul>
   <li><a href="https://andraderafa72.github.io/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
   <li><a href="https://andraderafa72.github.io/todolist">ToDo List</a></li>
@@ -19,6 +21,8 @@ I post here my most recent and intersting projects. <br>
 </ul>
 
 ### NodeJS projects
+(NPM necessário)
+
 <ul>
   <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
   <li><a href="https://github.com/andraderafa72/koisaradafestas-frontend">KoisaradaFestas Frontend</a></li>
