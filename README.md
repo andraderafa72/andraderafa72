@@ -21,7 +21,7 @@ I post here my most recent and intersting projects. <br>
 </ul>
 
 ### NodeJS projects
-(NPM necessário)
+(NPM necessário, capturas de tela do site no README.MD)
 
 <ul>
   <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
