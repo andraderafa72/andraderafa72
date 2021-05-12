@@ -1,3 +1,4 @@
+![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/banner.PNG?raw=true)
 # Hi there 👋
 My name is Rafael Andrade and I am a web developer.
 
@@ -26,24 +27,23 @@ I post here my most recent and intersting projects. <br>
 
 <ul>
   <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
-  <li><a href="https://github.com/andraderafa72/koisaradafestas-frontend">KoisaradaFestas Frontend</a></li>
   <li><a href="https://github.com/andraderafa72/todolist-electron">ToDo List - Electron</a></li>
   <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
 </ul>
 
-### What I'm currently working on
-A Electron (or web) app for managing and controlling expenses. Where the user can register the total money received, the total spent and make a monthly balance. <br>
-[Project repository](https://github.com/andraderafa72/Financas-Web)
+## What I'm currently working on
+A system for management, optimization and control of industrial production in the area of cosmetics and sanitizing. <br>
+<i>The project repository is now private </i>
+
 #### Tecnologies
 
 <ul>
-  <li>HTML5, CSS3, JavaScript and Bootstrap 5</li>
-  <li>NodeJS + ExpressJS</li>
-  <li>Views EJS</li>
+  <li>Typescript + NodeJs + ExpressJs Api Rest</li>
+  <li>NextJs Frontend</li>
   <li>MongoDB database</li>
 </ul>
 
-![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/working-now.gif?raw=true)
+![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/production-control.gif?raw=true)
 
 ##### Most used languages
 [![Rafael's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72&v=2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
