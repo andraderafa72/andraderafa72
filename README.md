@@ -58,7 +58,7 @@ A system for management, optimization and control of industrial production in th
 ##### Contribuitors
 Only me, for now.
 
-<i>Front-end of the version 0.1.0 (current version: 0.2.1) </i>
+<i>Front-end of the version 0.1.0 (current version: 0.2.1, major changes) </i>
 ![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/production-control.gif?raw=true)
 
 ##### Most used languages
