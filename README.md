@@ -5,14 +5,25 @@ My name is Rafael Andrade and I am a web developer.
 ## About me
 I started my life as a programmer with Visual Basic and Java, but i didn't feel that was for me. Then I discoverd JavaScript and fell in love with developing Web Apps.
 ### Always Learning
-I'm currently improving my skills in JavaScript and intend to learn TypeScript. <br>
-My next goals will be JS frameworks like React, Angular and Vue.
+I'm currently improving my skills in TypeScript. <br>
+My goal is improve my knowledge in React and NextJs.
 
 ## About my projects
 I post here my most recent and intersting projects. <br>
 ### Projects on GitHub Pages
-(Clique no link para visualizar o site)
+(Repositório)
 
+<ul>
+  <li><a href="https://github.com/andraderafa72/watch/">Watch!</a></li>
+  <li><a href="https://github.com/andraderafa72/EasyCSS/">EasyCSS</a></li>
+  <li><a href="https://github.com/andraderafa72/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
+  <li><a href="https://github.com/andraderafa72/todolist">ToDo List</a></li>
+  <li><a href="https://github.com/andraderafa72/despesas-da-casa">Despesas da Casa</a></li>
+  <li><a href="https://github.com/andraderafa72/calculadora-de-imc">BMI Calculator</a></li>
+  <li><a href="https://github.com/andraderafa72/I-Am-Developer">I am Developer</a></li>
+</ul>
+
+(Clique no link para visualizar o site)
 <ul>
   <li><a href="https://andraderafa72.github.io/watch/">Watch!</a></li>
   <li><a href="https://andraderafa72.github.io/EasyCSS/">EasyCSS</a></li>
@@ -44,6 +55,7 @@ A system for management, optimization and control of industrial production in th
   <li>MongoDB database</li>
 </ul>
 
+<i>Front-end of the version 0.1.0 (current version: 0.2.1) </i>
 ![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/production-control.gif?raw=true)
 
 ##### Most used languages
