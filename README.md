@@ -1,4 +1,3 @@
-![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/banner.PNG?raw=true)
 # Hi there 👋
 My name is Rafael Andrade and I am a web developer.
 
@@ -73,7 +72,7 @@ Only me, for now.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andraderafa72&repo=Agenda-JS)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/banner.PNG?raw=true)](url)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
