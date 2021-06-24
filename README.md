@@ -9,8 +9,24 @@ My goal is improve my knowledge in React and NextJs.
 
 ## About my projects
 I post here my most recent and intersting projects. <br>
+
+### React Projects
+
+<ul>
+  <li><a href="https://github.com/andraderafa72/podcastr">Podcastr</a></li>
+  <li><a href="https://github.com/andraderafa72/letmeask">Letmeask</a></li>
+</ul>
+
+### Node.Js projects
+
+<ul>
+  <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
+  <li><a href="https://github.com/andraderafa72/todolist-electron">ToDo List - Electron</a></li>
+  <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
+</ul>
+
 ### Projects on GitHub Pages
-(Repositório)
+(Repository)
 
 <ul>
   <li><a href="https://github.com/andraderafa72/watch/">Watch!</a></li>
@@ -22,7 +38,7 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://github.com/andraderafa72/I-Am-Developer">I am Developer</a></li>
 </ul>
 
-(Clique no link para visualizar o site)
+(GitHub Pages)
 <ul>
   <li><a href="https://andraderafa72.github.io/watch/">Watch!</a></li>
   <li><a href="https://andraderafa72.github.io/EasyCSS/">EasyCSS</a></li>
@@ -31,15 +47,6 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://andraderafa72.github.io/despesas-da-casa">Despesas da Casa</a></li>
   <li><a href="https://andraderafa72.github.io/calculadora-de-imc">BMI Calculator</a></li>
   <li><a href="https://andraderafa72.github.io/I-Am-Developer">I am Developer</a></li>
-</ul>
-
-### NodeJS projects
-(NPM necessário, capturas de tela do site no README.MD)
-
-<ul>
-  <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
-  <li><a href="https://github.com/andraderafa72/todolist-electron">ToDo List - Electron</a></li>
-  <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
 </ul>
 
 ## What I'm currently working on
