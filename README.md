@@ -33,7 +33,7 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://github.com/andraderafa72/EasyCSS/">EasyCSS</a></li>
   <li><a href="https://github.com/andraderafa72/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
   <li><a href="https://github.com/andraderafa72/todolist">ToDo List</a></li>
-  <li><a href="https://github.com/andraderafa72/despesas-da-casa">Despesas da Casa</a></li>
+  <li><a href="https://github.com/andraderafa72/despesas-da-casa">Lista de despesas</a></li>
   <li><a href="https://github.com/andraderafa72/calculadora-de-imc">BMI Calculator</a></li>
   <li><a href="https://github.com/andraderafa72/I-Am-Developer">I am Developer</a></li>
 </ul>
@@ -44,11 +44,12 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://andraderafa72.github.io/EasyCSS/">EasyCSS</a></li>
   <li><a href="https://andraderafa72.github.io/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
   <li><a href="https://andraderafa72.github.io/todolist">ToDo List</a></li>
-  <li><a href="https://andraderafa72.github.io/despesas-da-casa">Despesas da Casa</a></li>
+  <li><a href="https://andraderafa72.github.io/despesas-da-casa">Lista de despesas</a></li>
   <li><a href="https://andraderafa72.github.io/calculadora-de-imc">BMI Calculator</a></li>
   <li><a href="https://andraderafa72.github.io/I-Am-Developer">I am Developer</a></li>
 </ul>
 
+<!--
 ## What I'm currently working on
 A system for management, optimization and control of industrial production in the area of cosmetics and sanitizing. <br>
 <i>The project repository is now private </i>
@@ -66,6 +67,8 @@ Only me, for now.
 
 <i>Front-end of the version 0.1.0 (current version: 0.2.1, major changes) </i>
 ![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/gif/production-control.gif?raw=true)
+
+-->
 
 ##### Most used languages
 [![Rafael's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andraderafa72&v=2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
