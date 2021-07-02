@@ -7,7 +7,7 @@ I started my life as a programmer with Visual Basic and Java, but i didn't feel 
 I'm currently improving my skills in TypeScript. <br>
 My goal is improve my knowledge in React and NextJs.
 
-## About my projects
+## My projects
 I post here my most recent and intersting projects. <br>
 
 ### React Projects
