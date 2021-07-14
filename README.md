@@ -15,6 +15,7 @@ I post here my most recent and intersting projects. <br>
 <ul>
   <li><a href="https://github.com/andraderafa72/podcastr">Podcastr</a></li>
   <li><a href="https://github.com/andraderafa72/letmeask">Letmeask</a></li>
+  <li><a href="https://github.com/andraderafa72/todo-reactjs">To.do</a></li>
 </ul>
 
 ### Node.Js projects
@@ -26,7 +27,6 @@ I post here my most recent and intersting projects. <br>
 </ul>
 
 ### Projects on GitHub Pages
-(Repository)
 
 <ul>
   <li><a href="https://github.com/andraderafa72/watch/">Watch!</a></li>
@@ -36,17 +36,6 @@ I post here my most recent and intersting projects. <br>
   <li><a href="https://github.com/andraderafa72/despesas-da-casa">Lista de despesas</a></li>
   <li><a href="https://github.com/andraderafa72/calculadora-de-imc">BMI Calculator</a></li>
   <li><a href="https://github.com/andraderafa72/I-Am-Developer">I am Developer</a></li>
-</ul>
-
-(GitHub Pages)
-<ul>
-  <li><a href="https://andraderafa72.github.io/watch/">Watch!</a></li>
-  <li><a href="https://andraderafa72.github.io/EasyCSS/">EasyCSS</a></li>
-  <li><a href="https://andraderafa72.github.io/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
-  <li><a href="https://andraderafa72.github.io/todolist">ToDo List</a></li>
-  <li><a href="https://andraderafa72.github.io/despesas-da-casa">Lista de despesas</a></li>
-  <li><a href="https://andraderafa72.github.io/calculadora-de-imc">BMI Calculator</a></li>
-  <li><a href="https://andraderafa72.github.io/I-Am-Developer">I am Developer</a></li>
 </ul>
 
 <!--
@@ -84,6 +73,15 @@ Only me, for now.
 
 [![alt text](https://github.com/andraderafa72/andraderafa72/blob/working-now/banner.PNG?raw=true)](url)
 Here are some ideas to get you started:
+
+<div align="center">
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23E3426&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Javascript"> </a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%231570B6&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"> </a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ReactJS&color=%231545B6&style=for-the-badge&logo=react&logoColor=whitesmoke" alt="ReactJS"></a>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
