@@ -28,6 +28,7 @@ My goal is improve my knowledge in React and NextJs.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/andraderafa72/andraderafa72/blob/main/github-user-contribution.svg" alt="Snake animation"/>
 
 <!-- 
 ## My projects
