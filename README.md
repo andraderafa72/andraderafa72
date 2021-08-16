@@ -22,20 +22,23 @@ My goal is improve my knowledge in React and NextJs.
   <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23E3426&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Javascript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%231570B6&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"> </a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ReactJS&color=%231545B6&style=for-the-badge&logo=react&logoColor=whitesmoke" alt="ReactJS"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NextJs&color=black&style=for-the-badge&logo=next.js&logoColor=whitesmoke" alt="ReactJS"></a>
+  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="Node.js"> </a>
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> </a>
 </div><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github.com/andraderafa72/andraderafa72/blob/main/github-user-contribution.svg" alt="Snake animation"/>
+
 
 <!-- 
 ## My projects
 I post here my most recent and intersting projects. <br>
 
 ### React Projects
-
+<img src="https://github.com/andraderafa72/andraderafa72/blob/main/github-user-contribution.svg" alt="Snake animation"/>
 <ul>
   <li><a href="https://github.com/andraderafa72/podcastr">Podcastr</a></li>
   <li><a href="https://github.com/andraderafa72/letmeask">Letmeask</a></li>
