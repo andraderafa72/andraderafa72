@@ -1,4 +1,4 @@
-# Hi, I am Rafal Andrade 👋
+# Hi, I am Rafael Andrade 👋
 
 <div>
   <a href="https://andraderafa72.github.io/portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" /></a>
