@@ -1,4 +1,4 @@
-# Hi, I am Rafael Andrade 👋
+# Hi, I am Rafael Andrade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div>
   <a href="https://andraderafa72.github.io/portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" /></a>
@@ -6,17 +6,16 @@
 </div>
 
 ## About me
-I started my life as a programmer with Visual Basic and Java, but i didn't feel that was for me. Then I discoverd JavaScript and fell in love with developing Web Apps.
-### Always Learning
-I'm currently improving my skills in TypeScript. <br>
-My goal is improve my knowledge in React and NextJs.
-
+I'm a fullstack javascript dev from Natal, Brazil. I'm studying web development since 2018 and I've been working as a freelancer for more than a year.
 <br>
 
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <div align="center">
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
