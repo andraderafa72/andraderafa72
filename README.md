@@ -1,67 +1,16 @@
-# Hi, I am Rafael Andrade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-<div>
-  <a href="https://andraderafa72.github.io/portfolio"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/andraderafa72"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
-</div>
-
-## About me
-I'm a fullstack javascript dev from Natal, Brazil. I'm studying web development since 2018 and I've been working as a freelancer for more than a year.
-<br>
+# 💫 About Me:
+👨‍💻  I’m a fullstack Javascript and Typescript developer<br>💼  Currently working as a freelancer and in personal projects
 
 
-<div align="center">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andraderafa72) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=andraderafa72&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andraderafa72&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andraderafa72&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andraderafa72&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
-
-<div align="center">
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=SASS&color=%23CC6699&style=for-the-badge&logo=sass&logoColor=whitesmoke" alt="SASS"></a>
-  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23E3426&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Javascript"> </a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Typescript&color=%231570B6&style=for-the-badge&logo=typescript&logoColor=whitesmoke" alt="Typescript"> </a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=ReactJS&color=%231545B6&style=for-the-badge&logo=react&logoColor=whitesmoke" alt="ReactJS"></a>
-  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NextJs&color=black&style=for-the-badge&logo=next.js&logoColor=whitesmoke" alt="ReactJS"></a>
-  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Node.js&color=darkgreen&style=for-the-badge&logo=node.js&logoColor=whitesmoke" alt="Node.js"> </a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=green&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> </a>
-</div><br>
-
-
-
-
-<!-- 
-## My projects
-I post here my most recent and intersting projects. <br>
-
-### React Projects
-<img src="https://github.com/andraderafa72/andraderafa72/blob/main/github-user-contribution.svg" alt="Snake animation"/>
-<ul>
-  <li><a href="https://github.com/andraderafa72/podcastr">Podcastr</a></li>
-  <li><a href="https://github.com/andraderafa72/letmeask">Letmeask</a></li>
-  <li><a href="https://github.com/andraderafa72/todo-reactjs">To.do</a></li>
-  <li><a href="https://github.com/andraderafa72/dtmoney">dt money</a></li>
-</ul>
-
-### Node.Js projects
-
-<ul>
-  <li><a href="https://github.com/andraderafa72/Agenda-JS">Agenda JS</a></li>
-  <li><a href="https://github.com/andraderafa72/todolist-electron">ToDo List - Electron</a></li>
-  <li><a href="https://github.com/andraderafa72/despesas-da-casa-electron">Despesas da Casa - Electron</a></li>
-</ul>
-
-### Projects on GitHub Pages
-
-<ul>
-  <li><a href="https://github.com/andraderafa72/watch/">Watch!</a></li>
-  <li><a href="https://github.com/andraderafa72/EasyCSS/">EasyCSS</a></li>
-  <li><a href="https://github.com/andraderafa72/SpiderMan-Frontend/">SpiderMan-Frontend</a></li>
-  <li><a href="https://github.com/andraderafa72/todolist">ToDo List</a></li>
-  <li><a href="https://github.com/andraderafa72/despesas-da-casa">Lista de despesas</a></li>
-  <li><a href="https://github.com/andraderafa72/calculadora-de-imc">BMI Calculator</a></li>
-  <li><a href="https://github.com/andraderafa72/I-Am-Developer">I am Developer</a></li>
-</ul>
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=andraderafa72&theme=radical&no-frame=true&no-bg=true&margin-w=4)
